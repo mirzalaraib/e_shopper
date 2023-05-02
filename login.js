@@ -29,7 +29,7 @@ if (count ==1)
 }
 if(count >= 1)
 {
-   alert("Wrong password or username")
+   alert("Wrong password or username!")
    count--;
 }
 }
